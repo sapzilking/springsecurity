@@ -15,6 +15,5 @@ public class SecurityController {
     public String loginPage() {
         return "loginPage";
     }
-습
 
 }
